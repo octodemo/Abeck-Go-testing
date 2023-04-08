@@ -1,0 +1,11 @@
+---
+sourceLocationPrefix: /Users/austinjaybecker/projects/Abeck-Go-testing
+baselineLinesOfCode: 434712
+unicodeNewlines: false
+columnKind: utf8
+primaryLanguage: go
+creationMetadata:
+  sha: 2761c56bc83f9231a098841cd68a99c6b3703440
+  cliVersion: 2.12.5
+  creationTime: 2023-04-08T16:47:18.654483Z
+finalised: true
